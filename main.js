@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'pixelrgb255',
-  twitter: 'twit_ming',
+  facebook: 'marcel.diniz.923',
   linkedin: 'in/marcel-diniz-82bb13149'
 }
 
